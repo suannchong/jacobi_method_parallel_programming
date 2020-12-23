@@ -1,0 +1,51 @@
+(base) suannchong@Su-Anns-MacBook-Pro hw3 % mpiexec -n 4 ./hw_tester -vt small3.dat
+# Participants -1 (P = 2, Q = 2147483647)
+# Max iterations 10000
+# Resolution 256
+# Visual Resolution 256
+# Input file small3.dat
+# Num heat sources 2
+# Heat src 0: (0.000000, 0.000000) 0.500000 200.250000
+# Heat src 1: (1.000000, 1.000000) 0.500000 100.250000
+Residual 271557.452418
+Residual 50.648377
+Residual 16.922765
+Residual 8.701376
+Residual 5.340331
+Residual 3.611981
+Residual 2.598333
+Residual 1.950856
+Residual 1.511751
+Residual 1.200461
+Residual 0.972110
+Residual 0.799986
+Residual 0.667336
+Residual 0.563205
+Residual 0.480181
+Residual 0.413098
+Residual 0.358268
+Residual 0.313000
+Residual 0.275296
+Residual 0.243642
+Residual 0.216880
+Residual 0.194108
+Residual 0.174616
+Residual 0.157840
+Residual 0.143327
+Residual 0.130710
+Residual 0.119691
+Residual 0.110022
+Residual 0.101502
+Residual 0.093961
+Residual 0.087259
+Residual 0.081278
+Residual 0.075918
+Residual 0.071095
+Residual 0.066740
+Residual 0.062791
+Residual 0.059197
+Residual 0.055914
+Residual 0.052905
+Residual 0.050138
+Residual 0.047585
+Completion in 1985603 microseconds

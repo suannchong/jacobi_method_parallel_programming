@@ -1,0 +1,10 @@
+iter 10000
+alg 3 # Template by now
+resolution 2560
+threads 1
+vis_res 256
+vis_step 25
+numsrc 2
+num_proc_p 2
+0 0 0.5 200.25
+1 1 0.5 100.25

@@ -1,0 +1,12 @@
+num_proc_p 1
+iter 100000
+alg 3 # MPI blocking
+resolution 2560
+threads 1
+vis_res 256
+vis_step 250
+numsrc 4
+0 0 0.5 200.25
+0 1 0.5 50.25
+1 0 0.5 20.25
+1 1 0.5 100.25
